@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="mt-8 p-4 border border-white/10 rounded-lg bg-white/5 backdrop-blur-sm">
           <code className="text-xs text-gray-300">
-            contact: proxima0110@gmail.com
+            contact: hycenterp@gmail.com
           </code>
         </div>
       </main>
