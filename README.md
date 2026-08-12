@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 프록시마 프로젝트 소개
+
+`about.pc2.kr`에서 공개하는 프록시마의 프로젝트 디렉터리와 같은 내용을
+GitHub Pages에서도 확인할 수 있도록 관리하는 공개 저장소입니다.
 
 ## Getting Started
 
